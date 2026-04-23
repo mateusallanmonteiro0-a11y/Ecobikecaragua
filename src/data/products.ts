@@ -68,7 +68,7 @@ export const products: Product[] = [
     "Fácil condução e controle intuitivo",
     "Ideal para uso urbano e mobilidade assistida"
   ]
-}
+},
   
   {
     id: "fat-tire",
