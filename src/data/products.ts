@@ -6,7 +6,7 @@ import produto5 from "@/assets/produto-5.jpg";
 import produto6 from "@/assets/produto-6.webp";
 import produto7 from "@/assets/produto-7.jpg";
 import produto8 from "@/assets/produto-8.png";
-import produto9 from "@/assets/images.png";
+import produto9 from "@/assets/images.jpeg";
 
 export type Product = {
   id: string;
@@ -37,7 +37,7 @@ export const products: Product[] = [
     category: "Urbana",
     price: 10990,
     oldPrice: 14990,
-    image: images,
+    image: produto9,
     badge: "Mais vendida",
     specs: { range: "120 km", speed: "75 km/h", battery: "72V 40Ah", motor: "3000W", weight: "92 kg", charge: "4h" },
     description: "Design futurista, motor brushless de 3000W e autonomia de até 120 km. Pensada para quem se move pela cidade com estilo e zero emissão.",
