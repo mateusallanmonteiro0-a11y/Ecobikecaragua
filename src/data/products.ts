@@ -36,12 +36,39 @@ export const products: Product[] = [
     category: "Urbana",
     price: 10990,
     oldPrice: 14990,
-    image: produto1,
+    image: produto9,
     badge: "Mais vendida",
     specs: { range: "120 km", speed: "75 km/h", battery: "72V 40Ah", motor: "3000W", weight: "92 kg", charge: "4h" },
     description: "Design futurista, motor brushless de 3000W e autonomia de até 120 km. Pensada para quem se move pela cidade com estilo e zero emissão.",
     highlights: ["Painel LCD touch", "Conectividade 4G + App", "Freios a disco hidráulicos", "Garantia 2 anos motor"],
   },
+
+
+{
+  id: "mobility-scooter-3w",
+  name: "Volt Mobility Plus",
+  tagline: "Conforto e autonomia para o dia a dia",
+  category: "Mobilidade",
+  price: 5890,
+  image: produtoMobility,
+  specs: {
+    range: "40 km",
+    speed: "25 km/h",
+    battery: "48V 20Ah",
+    motor: "500W",
+    weight: "55 kg",
+    charge: "6-8h"
+  },
+  description: "Scooter elétrico de três rodas projetado para mobilidade urbana com máximo conforto e estabilidade. Possui assento ergonômico com encosto, apoio de braços e compartimento traseiro para transporte de objetos.",
+  highlights: [
+    "Design estável com 3 rodas",
+    "Assento confortável com apoio de braços",
+    "Baú traseiro integrado",
+    "Fácil condução e controle intuitivo",
+    "Ideal para uso urbano e mobilidade assistida"
+  ]
+}
+  
   {
     id: "fat-tire",
     name: "Volt Fat X",
