@@ -17,6 +17,7 @@ export type Product = {
   oldPrice?: number;
   image: string;
   badge?: string;
+  badgeColor?: "red" | "green" | "blue" | "orange"; // nova prop
   specs: {
     range: string;     // autonomia
     speed: string;     // velocidade
