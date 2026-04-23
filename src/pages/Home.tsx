@@ -12,7 +12,7 @@ const Home = () => {
   // Função para enviar mensagem via WhatsApp
   const handleWhatsAppClick = () => {
     // Número do WhatsApp (SUBSTITUA PELO SEU NÚMERO)
-    const phoneNumber = "5512999987654"; // ⚠️ ALTERE PARA SEU NÚMERO AQUI
+    const phoneNumber = "5511967064102"; // ⚠️ ALTERE PARA SEU NÚMERO AQUI
     
     // Mensagem de contato geral
     const message = `*🚀 OLÁ! VI O SITE DA ECO BIKE` +
