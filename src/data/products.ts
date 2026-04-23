@@ -37,7 +37,7 @@ export const products: Product[] = [
     category: "Urbana",
     price: 10990,
     oldPrice: 14990,
-    image: produto9,
+    image: produto1,
     badge: "Mais vendida",
     specs: { range: "120 km", speed: "75 km/h", battery: "72V 40Ah", motor: "3000W", weight: "92 kg", charge: "4h" },
     description: "Design futurista, motor brushless de 3000W e autonomia de até 120 km. Pensada para quem se move pela cidade com estilo e zero emissão.",
@@ -51,7 +51,7 @@ export const products: Product[] = [
   tagline: "Conforto e autonomia para o dia a dia",
   category: "Mobilidade",
   price: 5890,
-  image: produtoMobility,
+  image: produto,
   specs: {
     range: "40 km",
     speed: "25 km/h",
@@ -69,7 +69,6 @@ export const products: Product[] = [
     "Ideal para uso urbano e mobilidade assistida"
   ]
 },
-  
   {
     id: "fat-tire",
     name: "Volt Fat X",
