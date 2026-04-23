@@ -12,7 +12,8 @@ export type Product = {
   id: string;
   name: string;
   tagline: string;
-  category: "Urbana" | "Off-road" | "Cruiser" | "Compacta";
+  category: "Urbana" | "Off-road" | "Cruiser" | "Compacta" | "Mobilidade";
+  
   price: number;
   oldPrice?: number;
   image: string;
