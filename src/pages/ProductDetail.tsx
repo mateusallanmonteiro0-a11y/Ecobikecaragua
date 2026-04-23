@@ -25,7 +25,7 @@ const ProductDetail = () => {
   // Função para enviar informações da bike via WhatsApp
   const handleWhatsAppClick = () => {
     // Número do WhatsApp (substitua pelo seu número com DDD)
-    const phoneNumber = "5512999987654";
+    const phoneNumber = "5511967064102";
     
     // Pega a URL base do site (funciona no Netlify)
     const baseUrl = window.location.origin;
