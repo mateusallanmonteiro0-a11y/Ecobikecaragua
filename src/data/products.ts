@@ -6,7 +6,7 @@ import produto5 from "@/assets/produto-5.jpg";
 import produto6 from "@/assets/produto-6.webp";
 import produto7 from "@/assets/produto-7.jpg";
 import produto8 from "@/assets/produto-8.png";
-import produto8 from "@/assets/images.png";
+import produto9 from "@/assets/images.png";
 
 export type Product = {
   id: string;
