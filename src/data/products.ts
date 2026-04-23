@@ -52,6 +52,8 @@ export const products: Product[] = [
   category: "Mobilidade",
   price: 2699,
   image: produto9,
+  badge: "Produto novo",
+  badgeColor: "red", 
   specs: {
     range: "40 km",
     speed: "25 km/h",
