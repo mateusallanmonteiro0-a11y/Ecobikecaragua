@@ -50,8 +50,8 @@ export const products: Product[] = [
   name: "Volt Mobility Plus",
   tagline: "Conforto e autonomia para o dia a dia",
   category: "Mobilidade",
-  price: 5890,
-  image: produto,
+  price: 2699,
+  image: produto9,
   specs: {
     range: "40 km",
     speed: "25 km/h",
